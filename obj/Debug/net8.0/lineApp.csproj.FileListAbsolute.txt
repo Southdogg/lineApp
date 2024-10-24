@@ -1,0 +1,14 @@
+C:\Users\sweto\Desktop\lineCode\lineApp\bin\Debug\net8.0\lineApp.exe
+C:\Users\sweto\Desktop\lineCode\lineApp\bin\Debug\net8.0\lineApp.deps.json
+C:\Users\sweto\Desktop\lineCode\lineApp\bin\Debug\net8.0\lineApp.runtimeconfig.json
+C:\Users\sweto\Desktop\lineCode\lineApp\bin\Debug\net8.0\lineApp.dll
+C:\Users\sweto\Desktop\lineCode\lineApp\bin\Debug\net8.0\lineApp.pdb
+C:\Users\sweto\Desktop\lineCode\lineApp\obj\Debug\net8.0\lineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sweto\Desktop\lineCode\lineApp\obj\Debug\net8.0\lineApp.AssemblyInfoInputs.cache
+C:\Users\sweto\Desktop\lineCode\lineApp\obj\Debug\net8.0\lineApp.AssemblyInfo.cs
+C:\Users\sweto\Desktop\lineCode\lineApp\obj\Debug\net8.0\lineApp.csproj.CoreCompileInputs.cache
+C:\Users\sweto\Desktop\lineCode\lineApp\obj\Debug\net8.0\lineApp.dll
+C:\Users\sweto\Desktop\lineCode\lineApp\obj\Debug\net8.0\refint\lineApp.dll
+C:\Users\sweto\Desktop\lineCode\lineApp\obj\Debug\net8.0\lineApp.pdb
+C:\Users\sweto\Desktop\lineCode\lineApp\obj\Debug\net8.0\lineApp.genruntimeconfig.cache
+C:\Users\sweto\Desktop\lineCode\lineApp\obj\Debug\net8.0\ref\lineApp.dll
